@@ -12,5 +12,6 @@ function PropsComponent(props)
             <h2 style ={styleAtt}>Internal css</h2>
         </div>
     )
+    
 }
 export default PropsComponent
